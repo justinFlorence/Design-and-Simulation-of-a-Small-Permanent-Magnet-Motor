@@ -1,1 +1,1 @@
-# Simulation-and-Analysis-of-a-Non-linear-Anisotropic-Electromagnetic-System
+# Design and Simulation of a Small Permanent Magnet Motor
